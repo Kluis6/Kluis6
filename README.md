@@ -1,11 +1,12 @@
 ## Olá! Eu sou o Luis Julio
 
 <div>
-  <a href="www.linkedin.com/in/luisjulio6">
+  
 </div>
 
 <div>
   <p>
+    Bem vindo ao meu cantinho aqui no Git, onde eu aprendo e desenvolvo minhas habilidades 
     
   </p>
   </div>
